@@ -2,8 +2,8 @@ def roman(num):
     """
     Function to convert an integer to roman numeral.
 
-    input: num (int).
-    output: str.
+    :type num: int
+    :rtype: str
     """
 
     if type(num) is not int:
