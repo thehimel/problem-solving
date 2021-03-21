@@ -6,4 +6,4 @@ A repository to store the solutions of various coding challenges.
 
 Date | Title
 --- | ---
-21.03.2021 | [integer to roman](src/integer-to-roman)
+21.03.2021 | [integer to roman](integer-to-roman)
