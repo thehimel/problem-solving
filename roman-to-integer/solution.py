@@ -1,4 +1,11 @@
 def integer(roman):
+    """
+    Function to convert a roman numeral to integer.
+
+    :type roman: str
+    :rtype: int
+    """
+
     # Initialize a dictionary of symbol and values
     symbol_value = {
         'M': 1000,
