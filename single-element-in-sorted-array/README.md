@@ -8,10 +8,10 @@ Solution must have a time complexity of O(log(n)) and space complexity of O(1).
 ## Example
 
 - Input: [1, 1, 2, 3, 3, 4, 4, 6, 6]
-- Output: 2
+  - Output: 2
 
 - Input: [1, 1, 3, 3, 4, 4, 5, 5, 6, 7, 7, 8, 8]
-- Output: 6
+  - Output: 6
 
 ## Explanation
 
