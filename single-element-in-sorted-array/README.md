@@ -3,7 +3,7 @@
 ## Problem Statement
 
 You're given a list of numbers where all the numbers are presented twice except one number that appears only once. Find this element that appears only one.
-Solution must have a time complexity of O(log(n)) and space complexity of O(1).
+The solution must have a time complexity of O(log(n)) and space complexity of O(1).
 
 ## Example
 
