@@ -25,3 +25,8 @@ The solution must have a time complexity of O(log(n)) and space complexity of O(
 - If the mid and the right adjacent numbers are the same and the right is even, that means the target is on the right side. Thus, point the left to mid + 2. If the right is not even, the target is on the left side, point the right to mid - 1.
 - If the nums[mid] != nums[mid-1] and nums[mid] != nums[mid+1], that means, we have got our target, and that is nums[mid].
 - If left is not less than right, and we have not found the target yet. Then, nums[left] is the target.
+
+## Complexity Analysis
+
+- Time Complexity
+  - O(log(n))
